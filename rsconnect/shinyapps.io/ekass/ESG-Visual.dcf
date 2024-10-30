@@ -1,0 +1,13 @@
+name: ESG-Visual
+title: ESG-Visual
+username: ekass
+account: ekass
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13178021
+bundleId: 9290014
+url: https://ekass.shinyapps.io/ESG-Visual/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ESG_Visual.Rmd
