@@ -5,7 +5,7 @@ account: ekass
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 13178021
-bundleId: 9290014
+bundleId: 9314394
 url: https://ekass.shinyapps.io/ESG-Visual/
 version: 1
 asMultiple: FALSE
