@@ -1,1 +1,4 @@
 # ESGProject
+ESG Performance Insights, is an interactive tool which allows users to filter by each of the three ESG sectors to see a distribution of all scores in this category. This tool demonstrates ESG metrics by providing a clear, user-friendly way to understand how a company’s score compares to general trends. The tool’s histogram visualizes selected ESG sectors, with customizable bin widths to reveal more detailed or broader trends. A red dashed line represents the average score, giving users a quick benchmark for comparison. The y-axis shows the frequency of companies within each score range, making it easy to spot patterns or outliers. Below the histogram, a data table displays the filtered companies, listing names, ESG grade, and specific scores for each sector. 
+### Shiny App: https://ekass.shinyapps.io/ESG-Visual/
+![image](https://github.com/user-attachments/assets/0d1b4401-8d33-4983-a911-ac3c47a6a469)
