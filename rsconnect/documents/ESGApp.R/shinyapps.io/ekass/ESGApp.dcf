@@ -1,0 +1,13 @@
+name: ESGApp
+title: ESGApp
+username: ekass
+account: ekass
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13595629
+bundleId: 9518528
+url: https://ekass.shinyapps.io/ESGApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R|data/data.csv
