@@ -5,7 +5,7 @@ Goal: Create an interface for hypothetical ESG investors from diverse background
 
 Focus: Plot the ESG ratings using a combination of bar charts, heatmaps, and radar charts to appeal to investors with a diverse array of experience. 
 <br />
-### Datasets We Used:
+### Dataset We Used: https://www.kaggle.com/datasets/alistairking/public-company-esg-ratings-dataset 
 We found a dataset named Corporate Environmental Impact which contains corporate sustainability data that showcases each firm’s environmental impact, as well as a similar dataset named Public Company ESG Ratings which contains pre-existing ESG ratings for public companies. The former focuses on three monetarily based compositions of economic impact as well as eight more columns of “safeguard subjects,” which are ratings related to a certain sector of sustainability. Each of these eight columns contains multiple values in a list and will need to be separated so that the data is tidy and usable. The latter contains sustainability ratings of A, B, BB, and BBB relating to both the environmental and social sectors of ESG.
 <br />
 ### Dashboard I worked on (ESG Performance Insights) :
@@ -29,6 +29,7 @@ Insights:
 Most companies shown seem to fall either right at the B Grade Minimum (200 score) or right at the A Grade Minimum (500 score). 
 Grades can provide a quick overview of how a company is doing, while scores give specific information.
 <br />
-![image](https://github.com/user-attachments/assets/9d8b5529-b77b-45ad-82b6-3dab3587cb0f)
+![Screenshot 2025-02-05 212235](https://github.com/user-attachments/assets/24627f90-684f-4a61-b274-71f3f496839b)
+
 
 
